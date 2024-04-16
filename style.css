@@ -2,6 +2,7 @@ body{
     border: 3px solid black;
     height: 700px;
     margin: 0;
+    margin-left: 20px;
     padding: 0%;    
     display: inline-block;
 
